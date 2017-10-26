@@ -660,12 +660,12 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
-      "A:\\projectProgram\\starterKit\\CustomerOrderSystemBackend\\DemoDAL\\DemoDAL.csproj",
+      "C:\\Users\\Jesper Enemark\\Source\\Repos\\CustomerOrderSystemBackend\\DemoDAL\\DemoDAL.csproj",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DaveTamo\\.nuget\\packages\\": {},
+    "C:\\Users\\Jesper Enemark\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -674,17 +674,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "A:\\projectProgram\\starterKit\\CustomerOrderSystemBackend\\DemoBLL\\BLL.csproj",
+      "projectUniqueName": "C:\\Users\\Jesper Enemark\\Source\\Repos\\CustomerOrderSystemBackend\\DemoBLL\\BLL.csproj",
       "projectName": "BLL",
-      "projectPath": "A:\\projectProgram\\starterKit\\CustomerOrderSystemBackend\\DemoBLL\\BLL.csproj",
-      "packagesPath": "C:\\Users\\DaveTamo\\.nuget\\packages\\",
-      "outputPath": "A:\\projectProgram\\starterKit\\CustomerOrderSystemBackend\\DemoBLL\\obj\\",
+      "projectPath": "C:\\Users\\Jesper Enemark\\Source\\Repos\\CustomerOrderSystemBackend\\DemoBLL\\BLL.csproj",
+      "packagesPath": "C:\\Users\\Jesper Enemark\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jesper Enemark\\Source\\Repos\\CustomerOrderSystemBackend\\DemoBLL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\DaveTamo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jesper Enemark\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -692,14 +692,13 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "A:\\projectProgram\\starterKit\\CustomerOrderSystemBackend\\DemoDAL\\DemoDAL.csproj": {
-              "projectPath": "A:\\projectProgram\\starterKit\\CustomerOrderSystemBackend\\DemoDAL\\DemoDAL.csproj"
+            "C:\\Users\\Jesper Enemark\\Source\\Repos\\CustomerOrderSystemBackend\\DemoDAL\\DemoDAL.csproj": {
+              "projectPath": "C:\\Users\\Jesper Enemark\\Source\\Repos\\CustomerOrderSystemBackend\\DemoDAL\\DemoDAL.csproj"
             }
           }
         }
@@ -732,8 +731,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project 'A:\\projectProgram\\starterKit\\CustomerOrderSystemBackend\\DemoDAL\\DemoDAL.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "A:\\projectProgram\\starterKit\\CustomerOrderSystemBackend\\DemoDAL\\DemoDAL.csproj",
+      "message": "Unable to find project 'C:\\Users\\Jesper Enemark\\Source\\Repos\\CustomerOrderSystemBackend\\DemoDAL\\DemoDAL.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Jesper Enemark\\Source\\Repos\\CustomerOrderSystemBackend\\DemoDAL\\DemoDAL.csproj",
       "targetGraphs": [
         ".NETCoreApp,Version=v2.0"
       ]

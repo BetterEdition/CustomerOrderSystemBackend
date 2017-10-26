@@ -3355,7 +3355,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DaveTamo\\.nuget\\packages\\": {},
+    "C:\\Users\\Jesper Enemark\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -3364,17 +3364,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "A:\\projectProgram\\starterKit\\CustomerOrderSystemBackend\\DemoDAL\\DAL.csproj",
+      "projectUniqueName": "C:\\Users\\Jesper Enemark\\Source\\Repos\\CustomerOrderSystemBackend\\DemoDAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "A:\\projectProgram\\starterKit\\CustomerOrderSystemBackend\\DemoDAL\\DAL.csproj",
-      "packagesPath": "C:\\Users\\DaveTamo\\.nuget\\packages\\",
-      "outputPath": "A:\\projectProgram\\starterKit\\CustomerOrderSystemBackend\\DemoDAL\\obj\\",
+      "projectPath": "C:\\Users\\Jesper Enemark\\Source\\Repos\\CustomerOrderSystemBackend\\DemoDAL\\DAL.csproj",
+      "packagesPath": "C:\\Users\\Jesper Enemark\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jesper Enemark\\Source\\Repos\\CustomerOrderSystemBackend\\DemoDAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\DaveTamo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jesper Enemark\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3382,7 +3382,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

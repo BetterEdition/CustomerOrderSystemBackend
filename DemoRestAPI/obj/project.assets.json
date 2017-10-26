@@ -9135,7 +9135,7 @@
       ]
     },
     "System.Diagnostics.Contracts/4.3.0": {
-      "sha512": "X0FOgBhjqbMQqHWqIBW4WuS0Nc4e5cOmNWOVzj7Gh8jSvXwY53O+m2vlMxgis8943hJ72LL5H2VvtON5AMwWLw==",
+      "sha512": "eelRRbnm+OloiQvp9CXS0ixjNQldjjkHO4iIkR5XH2VIP8sUB/SIpa1TdUW6/+HDcQ+MlhP3pNa1u5SbzYuWGA==",
       "type": "package",
       "path": "system.diagnostics.contracts/4.3.0",
       "files": [
@@ -10429,7 +10429,7 @@
       ]
     },
     "System.Net.Security/4.3.0": {
-      "sha512": "bP6qzbIyhKbSyyE+Y2Y4U3u9H60OTw+mxlUA+fQd8jLGapUwUVbnqkbSz1HFmXORFLAvVWYmlVGeuTGekn91gw==",
+      "sha512": "IgJKNfALqw7JRWp5LMQ5SWHNKvXVz094U6wNE3c1i8bOkMQvgBL+MMQuNt3xl9Qg9iWpj3lFxPZEY6XHmROjMQ==",
       "type": "package",
       "path": "system.net.security/4.3.0",
       "files": [
@@ -10614,7 +10614,7 @@
       ]
     },
     "System.Private.DataContractSerialization/4.1.1": {
-      "sha512": "/+WMBURB5kwGOLfOgMmqPoUewFUdeS//T+TlmEkIzYhoRGxQM4LRFTdfrSW1dcYGdI0LOLw9/1YyQiGF/PfbGg==",
+      "sha512": "lcqFBUaCZxPiUkA4dlSOoPZGtZsAuuElH2XHgLwGLxd7ZozWetV5yiz0qGAV2AUYOqw97MtZBjbLMN16Xz4vXA==",
       "type": "package",
       "path": "system.private.datacontractserialization/4.1.1",
       "files": [
@@ -12942,7 +12942,7 @@
       ]
     },
     "System.Xml.XmlSerializer/4.0.11": {
-      "sha512": "rX4rEUlu63Bk1mTIOBxNL2X5PoUVSFD43s2Zl2sx7s/wZk/06K3tpWT4F6TQynDo9jvgPJxfy8wh8qhdFrK8tA==",
+      "sha512": "FrazwwqfIXTfq23mfv4zH+BjqkSFNaNFBtjzu3I9NRmG8EELYyrv/fJnttCIwRMFRR/YKXF1hmsMmMEnl55HGw==",
       "type": "package",
       "path": "system.xml.xmlserializer/4.0.11",
       "files": [
@@ -13109,14 +13109,14 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
-      "A:\\projectProgram\\starterKit\\CustomerOrderSystemBackend\\DemoBLL\\DemoBLL.csproj",
+      "C:\\Users\\Jesper Enemark\\Source\\Repos\\CustomerOrderSystemBackend\\DemoBLL\\DemoBLL.csproj",
       "Microsoft.AspNetCore.All >= 2.0.0",
       "Microsoft.NETCore.App >= 2.0.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DaveTamo\\.nuget\\packages\\": {},
+    "C:\\Users\\Jesper Enemark\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -13125,17 +13125,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "A:\\projectProgram\\starterKit\\CustomerOrderSystemBackend\\DemoRestAPI\\RestAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Jesper Enemark\\Source\\Repos\\CustomerOrderSystemBackend\\DemoRestAPI\\RestAPI.csproj",
       "projectName": "RestAPI",
-      "projectPath": "A:\\projectProgram\\starterKit\\CustomerOrderSystemBackend\\DemoRestAPI\\RestAPI.csproj",
-      "packagesPath": "C:\\Users\\DaveTamo\\.nuget\\packages\\",
-      "outputPath": "A:\\projectProgram\\starterKit\\CustomerOrderSystemBackend\\DemoRestAPI\\obj\\",
+      "projectPath": "C:\\Users\\Jesper Enemark\\Source\\Repos\\CustomerOrderSystemBackend\\DemoRestAPI\\RestAPI.csproj",
+      "packagesPath": "C:\\Users\\Jesper Enemark\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jesper Enemark\\Source\\Repos\\CustomerOrderSystemBackend\\DemoRestAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\DaveTamo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jesper Enemark\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -13143,14 +13143,13 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "A:\\projectProgram\\starterKit\\CustomerOrderSystemBackend\\DemoBLL\\DemoBLL.csproj": {
-              "projectPath": "A:\\projectProgram\\starterKit\\CustomerOrderSystemBackend\\DemoBLL\\DemoBLL.csproj"
+            "C:\\Users\\Jesper Enemark\\Source\\Repos\\CustomerOrderSystemBackend\\DemoBLL\\DemoBLL.csproj": {
+              "projectPath": "C:\\Users\\Jesper Enemark\\Source\\Repos\\CustomerOrderSystemBackend\\DemoBLL\\DemoBLL.csproj"
             }
           }
         }
@@ -13190,8 +13189,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project 'A:\\projectProgram\\starterKit\\CustomerOrderSystemBackend\\DemoBLL\\DemoBLL.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "A:\\projectProgram\\starterKit\\CustomerOrderSystemBackend\\DemoBLL\\DemoBLL.csproj",
+      "message": "Unable to find project 'C:\\Users\\Jesper Enemark\\Source\\Repos\\CustomerOrderSystemBackend\\DemoBLL\\DemoBLL.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Jesper Enemark\\Source\\Repos\\CustomerOrderSystemBackend\\DemoBLL\\DemoBLL.csproj",
       "targetGraphs": [
         ".NETCoreApp,Version=v2.0"
       ]
