@@ -1,0 +1,9 @@
+A:\projectProgram\starterKit\CustomerOrderSystemBackend\DemoDAL\bin\Debug\netcoreapp2.0\DemoDAL.deps.json
+A:\projectProgram\starterKit\CustomerOrderSystemBackend\DemoDAL\bin\Debug\netcoreapp2.0\DemoDAL.dll
+A:\projectProgram\starterKit\CustomerOrderSystemBackend\DemoDAL\bin\Debug\netcoreapp2.0\DemoDAL.pdb
+A:\projectProgram\starterKit\CustomerOrderSystemBackend\DemoDAL\obj\Debug\netcoreapp2.0\DemoDAL.csprojResolveAssemblyReference.cache
+A:\projectProgram\starterKit\CustomerOrderSystemBackend\DemoDAL\obj\Debug\netcoreapp2.0\DemoDAL.csproj.CoreCompileInputs.cache
+A:\projectProgram\starterKit\CustomerOrderSystemBackend\DemoDAL\obj\Debug\netcoreapp2.0\DemoDAL.AssemblyInfoInputs.cache
+A:\projectProgram\starterKit\CustomerOrderSystemBackend\DemoDAL\obj\Debug\netcoreapp2.0\DemoDAL.AssemblyInfo.cs
+A:\projectProgram\starterKit\CustomerOrderSystemBackend\DemoDAL\obj\Debug\netcoreapp2.0\DemoDAL.dll
+A:\projectProgram\starterKit\CustomerOrderSystemBackend\DemoDAL\obj\Debug\netcoreapp2.0\DemoDAL.pdb

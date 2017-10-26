@@ -1,0 +1,15 @@
+A:\projectProgram\starterKit\CustomerOrderSystemBackend\DemoRestAPI\bin\Debug\netcoreapp2.0\DemoRestAPI.deps.json
+A:\projectProgram\starterKit\CustomerOrderSystemBackend\DemoRestAPI\bin\Debug\netcoreapp2.0\DemoRestAPI.runtimeconfig.json
+A:\projectProgram\starterKit\CustomerOrderSystemBackend\DemoRestAPI\bin\Debug\netcoreapp2.0\DemoRestAPI.runtimeconfig.dev.json
+A:\projectProgram\starterKit\CustomerOrderSystemBackend\DemoRestAPI\bin\Debug\netcoreapp2.0\DemoRestAPI.dll
+A:\projectProgram\starterKit\CustomerOrderSystemBackend\DemoRestAPI\bin\Debug\netcoreapp2.0\DemoRestAPI.pdb
+A:\projectProgram\starterKit\CustomerOrderSystemBackend\DemoRestAPI\bin\Debug\netcoreapp2.0\DemoBLL.dll
+A:\projectProgram\starterKit\CustomerOrderSystemBackend\DemoRestAPI\bin\Debug\netcoreapp2.0\DemoDAL.dll
+A:\projectProgram\starterKit\CustomerOrderSystemBackend\DemoRestAPI\bin\Debug\netcoreapp2.0\DemoBLL.pdb
+A:\projectProgram\starterKit\CustomerOrderSystemBackend\DemoRestAPI\bin\Debug\netcoreapp2.0\DemoDAL.pdb
+A:\projectProgram\starterKit\CustomerOrderSystemBackend\DemoRestAPI\obj\Debug\netcoreapp2.0\DemoRestAPI.csprojResolveAssemblyReference.cache
+A:\projectProgram\starterKit\CustomerOrderSystemBackend\DemoRestAPI\obj\Debug\netcoreapp2.0\DemoRestAPI.csproj.CoreCompileInputs.cache
+A:\projectProgram\starterKit\CustomerOrderSystemBackend\DemoRestAPI\obj\Debug\netcoreapp2.0\DemoRestAPI.AssemblyInfoInputs.cache
+A:\projectProgram\starterKit\CustomerOrderSystemBackend\DemoRestAPI\obj\Debug\netcoreapp2.0\DemoRestAPI.AssemblyInfo.cs
+A:\projectProgram\starterKit\CustomerOrderSystemBackend\DemoRestAPI\obj\Debug\netcoreapp2.0\DemoRestAPI.dll
+A:\projectProgram\starterKit\CustomerOrderSystemBackend\DemoRestAPI\obj\Debug\netcoreapp2.0\DemoRestAPI.pdb

@@ -1,0 +1,11 @@
+A:\projectProgram\starterKit\CustomerOrderSystemBackend\DemoBLL\bin\Debug\netcoreapp2.0\DemoBLL.deps.json
+A:\projectProgram\starterKit\CustomerOrderSystemBackend\DemoBLL\bin\Debug\netcoreapp2.0\DemoBLL.dll
+A:\projectProgram\starterKit\CustomerOrderSystemBackend\DemoBLL\bin\Debug\netcoreapp2.0\DemoBLL.pdb
+A:\projectProgram\starterKit\CustomerOrderSystemBackend\DemoBLL\bin\Debug\netcoreapp2.0\DemoDAL.dll
+A:\projectProgram\starterKit\CustomerOrderSystemBackend\DemoBLL\bin\Debug\netcoreapp2.0\DemoDAL.pdb
+A:\projectProgram\starterKit\CustomerOrderSystemBackend\DemoBLL\obj\Debug\netcoreapp2.0\DemoBLL.csprojResolveAssemblyReference.cache
+A:\projectProgram\starterKit\CustomerOrderSystemBackend\DemoBLL\obj\Debug\netcoreapp2.0\DemoBLL.csproj.CoreCompileInputs.cache
+A:\projectProgram\starterKit\CustomerOrderSystemBackend\DemoBLL\obj\Debug\netcoreapp2.0\DemoBLL.AssemblyInfoInputs.cache
+A:\projectProgram\starterKit\CustomerOrderSystemBackend\DemoBLL\obj\Debug\netcoreapp2.0\DemoBLL.AssemblyInfo.cs
+A:\projectProgram\starterKit\CustomerOrderSystemBackend\DemoBLL\obj\Debug\netcoreapp2.0\DemoBLL.dll
+A:\projectProgram\starterKit\CustomerOrderSystemBackend\DemoBLL\obj\Debug\netcoreapp2.0\DemoBLL.pdb
